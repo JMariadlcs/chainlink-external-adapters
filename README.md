@@ -8,6 +8,8 @@ Chainlink External Adapters allows to connect to APIs that are unreachable via d
 - They way it work is like the one in the following figure:
 <img src="./images/adapters.png">
 
+- The API we are going to ask for information is [this one](https://developers.halodotapi.com).
+1. Create API KEY.
 
 
 ## Resources
