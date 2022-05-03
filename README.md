@@ -6,7 +6,7 @@ The workshop followed to complete this repo is [this one](https://www.youtube.co
 Chainlink External Adapters allows to connect to APIs that are unreachable via de standard [HTTP task](https://docs.chain.link/docs/jobs/task-types/http/). That means that you can connect any API that is avaliable on the Internet to your Smart Contract by using Chainlink nodes through Chainlink external adapters.
 
 - They way it work is like the one in the following figure:
-<img src="./images/adapters.png" width="225" alt="Adapters">
+<img src="./images/adapters.png">
 
 
 
