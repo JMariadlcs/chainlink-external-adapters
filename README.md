@@ -15,3 +15,4 @@ Chainlink External Adapters allows to connect to APIs that are unreachable via d
 ## Resources
 - [Chalink External Adapters](https://docs.chain.link/docs/external-adapters/): Chainlink external adapters documentation.
 - [HTTP task](https://docs.chain.link/docs/jobs/task-types/http/): standard HTTP task documentation.
+- [HALODOTAPI](https://developers.halodotapi.com): Used API in the example
