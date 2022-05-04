@@ -27,6 +27,8 @@ npm install dotenv
 6. Modify `index.js` createRequest() function to call to our API.
 7. Setup authentification (function headers()).
 
+NOTICE: `index.js` should look like [the one](https://github.com/JMariadlcs/chainlink-external-adapters/blob/main/index.js) included in this repo. -> Feel free to make changes in order to adapt it to your API request
+
 ## How to run
 1. Execute:
 ```bash
