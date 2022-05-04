@@ -19,6 +19,13 @@ git clone https://github.com/thodges-gh/CL-EA-NodeJS-Template halo-ea
 cd halo-ea
 yarn
 ```
+4. Create `.env` file and paste APY_KEY
+5. Install dotenv:
+```bash
+npm install dotenv
+```
+6. Modify `index.js` createRequest() function to call to our API.
+7. Setup authentification (function headers()).
 
 
 ## Resources
