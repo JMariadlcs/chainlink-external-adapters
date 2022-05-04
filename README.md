@@ -27,6 +27,18 @@ npm install dotenv
 6. Modify `index.js` createRequest() function to call to our API.
 7. Setup authentification (function headers()).
 
+## How to run
+1. Execute:
+```bash
+yarn start
+```
+2. Open new terminal and execute:
+```bash
+curl -X POST -H "content type: applications/json" "http://localhost:8080/" --data '{ "id": 1, "data": {{"playerId": "Frosty"} }'
+```
+
+You will get the response form the API request! ✅
+
 
 ## Resources
 - [Chalink External Adapters](https://docs.chain.link/docs/external-adapters/): Chainlink external adapters documentation.
